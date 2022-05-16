@@ -1,0 +1,11 @@
+G:\Game\1\Проекты\Лаб практикум\Лаба 12\Лаба 12\bin\Debug\Лаба 12.exe.config
+G:\Game\1\Проекты\Лаб практикум\Лаба 12\Лаба 12\bin\Debug\Лаба 12.exe
+G:\Game\1\Проекты\Лаб практикум\Лаба 12\Лаба 12\bin\Debug\Лаба 12.pdb
+G:\Game\1\Проекты\Лаб практикум\Лаба 12\Лаба 12\obj\Debug\Лаба 12.csproj.AssemblyReference.cache
+G:\Game\1\Проекты\Лаб практикум\Лаба 12\Лаба 12\obj\Debug\Лаба 12.csproj.SuggestedBindingRedirects.cache
+G:\Game\1\Проекты\Лаб практикум\Лаба 12\Лаба 12\obj\Debug\Лаба_12.Form1.resources
+G:\Game\1\Проекты\Лаб практикум\Лаба 12\Лаба 12\obj\Debug\Лаба_12.Properties.Resources.resources
+G:\Game\1\Проекты\Лаб практикум\Лаба 12\Лаба 12\obj\Debug\Лаба 12.csproj.GenerateResource.cache
+G:\Game\1\Проекты\Лаб практикум\Лаба 12\Лаба 12\obj\Debug\Лаба 12.csproj.CoreCompileInputs.cache
+G:\Game\1\Проекты\Лаб практикум\Лаба 12\Лаба 12\obj\Debug\Лаба 12.exe
+G:\Game\1\Проекты\Лаб практикум\Лаба 12\Лаба 12\obj\Debug\Лаба 12.pdb
